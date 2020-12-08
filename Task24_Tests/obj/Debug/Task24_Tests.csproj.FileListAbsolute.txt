@@ -1,0 +1,117 @@
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Task24_Tests.dll.config
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Task24_Tests.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Task24_Tests.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Castle.Core.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\DataAccessLayer.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\EntityFramework.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Moq.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\nunit.framework.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Ninject.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Castle.Core.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\EntityFramework.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Moq.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\nunit.framework.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\Ninject.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\obj\Debug\Task24_Tests.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\obj\Debug\Task24_Tests.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\obj\Debug\Task24_Tests.csproj.CopyComplete
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\obj\Debug\Task24_Tests.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_Tests\obj\Debug\Task24_Tests.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\obj\Debug\Task24_Tests.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\obj\Debug\Task24_Tests.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\obj\Debug\Task24_Tests.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\obj\Debug\Task24_Tests.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Task24_Tests.dll.config
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Task24_Tests.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Task24_Tests.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Castle.Core.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\DataAccessLayer.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\EntityFramework.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Moq.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\nunit.framework.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Ninject.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\BusinessLogicLayer.dll.config
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Castle.Core.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\EntityFramework.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Moq.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\nunit.framework.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Ninject.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_Tests\obj\Debug\Task24_Tests.csproj.CopyComplete

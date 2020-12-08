@@ -1,0 +1,57 @@
+﻿@model Task24_advanced.ViewModels.HomeViewModel
+@using Task24_advanced.Helpers
+@using Task24_advanced.ViewModels
+
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{ 
+    
+    ViewBag.Title = "Home Page";
+    
+    }
+
+<h3>Latest news</h3>
+<p>
+    @Html.ActionLink("Normal", "ActionByGenre", "Home", new { genreTag = "Normal" }, null)<a> </a>
+    @Html.ActionLink("Ascending", "ActionByGenre", "Home", new { genreTag = "Ascending" }, null)<a> </a>
+
+    @Html.ActionLink("Descending", "ActionByGenre", "Home", new { genreTag = "Descending" }, null)<a> </a>
+</p>
+@foreach (var i in Model.News)
+{
+
+<div class="postedReviews">
+    <dl class="dl-horizontal">
+        <dd><b>@i.Title</b></dd>
+        <dt>@i.Date</dt>
+        <dd><p>@i.Description</p></dd>
+    </dl>
+    @foreach (var j in i.Tags)
+    {
+
+        @Html.ActionLink(@j.TagName, "ActionByGenre", "Home", new { genreTag = j.TagName }, null)<a> </a>
+
+
+    }
+    @Html.ActionLink("Detailed", "Index", "DetailedArticle", new { id = i.ArticleId }, null)
+
+
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { id = @i.ArticleId }))
+    {
+        if (this.User.IsInRole("admin"))
+        {
+            <p>@Html.ValidationMessage("tag")</p>
+            <p>
+                @Html.Label("tag")
+                @Html.Editor("tag")
+
+                @Html.Hidden("id", i.ArticleId)
+                <input type="submit" value="Send" />
+
+            </p>
+        }
+    }
+</div>
+}
+<div class="btn-group">
+    @Html.PageLinks(Model.PageViewModel, x => Url.Action("Index", new { page = x }))
+</div>

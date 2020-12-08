@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+
+    <link href="~/Content/Home.css" rel="stylesheet" />
+    @Styles.Render("~/Content/css")
+    @*Scripts.Render("~/bundles/modernizr")*@
+</head>
+<body>
+    <header>
+        <div class="navbar navbar-default">
+            <div id="topContainer" class="container">
+                <div class="navbar-header">
+                    <img src="~/fonts/library.jpg" />
+                    <h1 class="dispay-1">Library №1</h1>
+                    <a href="~/Account/Login">Login</a>
+                    <a href="~/Account/Register">Registration</a>
+                    <a href="~/Account/Logout">Logout</a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!--<div class="jumbotron">
+        <img src="~/fonts/library.jpg" />
+        <p class="navbar-brand">Library №1</p>
+    </div>-->
+    <div id="mainContent">
+        <div id="mainArticle">
+            @RenderBody()
+        </div>
+        <div class="menu">
+            <h3>Menu</h3>
+            <ol class="nav navbar-nav">
+                @if(!(this.User.IsInRole("Admin") || !this.User.Identity.IsAuthenticated))
+                {
+                <li><a href="/Home/Index" class="sidebarLink">Main</a></li>
+                <li><a href="/GuestRoom/ReviewInput" class="sidebarLink">Guest room</a></li>
+                <li><a href="/Questionnary/MakeForm" class="sidebarLink">Questionnary</a></li>
+                }
+            </ol>
+        </div>
+    </div>
+    <!--<article id="mainArticle">Article</article>
+    <nav id="mainNav">a</nav>-->
+    <!--<footer id="pageFooter">
+        <p>Oleksy Arthur</p>
+        <p>arturoleksiii@gmail.com</p>
+        <p>Copyrathing. All rights recieved</p>
+        <p><a href="/Home/Index">Main page</a></p>
+    </footer>-->
+
+    <div class="panel-footer text-center">
+        <p>Oleksy Arthur</p>
+        <p>arturoleksiii@gmail.com</p>
+        <p>Copyrathing. All rights recieved</p>
+        @if (!(this.User.IsInRole("Admin") || !this.User.Identity.IsAuthenticated))
+        {
+            <p><a href="/Home/Index">Main page</a></p>
+        }
+        </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

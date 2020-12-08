@@ -1,0 +1,43 @@
+﻿@model Task24_advanced.ViewModels.GuestRoomViewModel
+@using Task24_advanced.ViewModels
+@using Task24_advanced.Helpers
+
+@{ ViewBag.Title = "ReviewInput";
+    GuestRoomDataViewModel guest = new GuestRoomDataViewModel();
+    var review = ViewData["review2"] as GuestRoomViewModel; }
+
+
+
+<h3>Input your review here</h3>
+@using (Html.BeginForm("ReviewInput", "GuestRoom", FormMethod.Post, new { id = "reviewForm" }))
+{
+
+<div id="commentsForm" class="container">
+    @Html.ValidationSummary()
+    <p>@Html.Label("Name: ")</p>
+    <p>
+        @Html.EditorFor(m => m.NewData.Author)
+        @Html.ValidationMessageFor(m => m.NewData.Author)
+    </p>
+    <p>@Html.Label("Text: ")</p>
+    <p>
+        @Html.TextAreaFor(m => m.NewData.Description)
+        @Html.ValidationMessageFor(m => m.NewData.Description)
+    </p>
+    <button type="submit" class="btn btn-default">Submit</button>
+</div>}
+
+@foreach (var i in Model.GuestRoomData)
+{
+<div class="postedReviews">
+    <dl class="dl-horizontal">
+        <dt>Name: @i.Author</dt>
+        <dt>Date: @i.Date</dt>
+        <dd>@i.Description</dd>
+    </dl>
+</div>
+}
+
+<div class="btn-group">
+    @Html.PageLinks(Model.PaginationViewModel, x => Url.Action("ReviewInput", new { page = x }))
+</div>

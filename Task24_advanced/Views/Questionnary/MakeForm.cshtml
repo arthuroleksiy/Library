@@ -1,0 +1,82 @@
+﻿@using Task24_advanced.Helpers;
+@model DataAccessLayer.Entities.FormModel
+
+@{
+    List<string> checkBoxList = new List<string>();
+    string[] checkBoxes = new string[] { "paper", "online" };
+    foreach (string word in checkBoxes)
+    {
+        checkBoxList.Add(Html.CheckBox(word, false, new { value = word }).ToString());
+    }
+}
+
+@helper MyInlineTextHelper(string[] words)
+{
+    <ol>
+        @foreach (string word in words)
+        {
+            <li>
+                @Html.Label(word, word)
+                <br />
+                @Html.TextBox(word)
+            </li>
+        }
+    </ol>
+}
+
+@helper MyInlineCheckboxHelper(string[] words)
+{
+    <ol>
+        @foreach (string word in words)
+        {
+            <li>
+                @Html.CheckBox(word, false, new { @class = "checkbox", value = word })@word
+            </li>
+        }
+    </ol>
+}
+
+@helper MyInlineRadioHelper(string radioName, string[] words)
+{
+    <ol>
+        @for (int i = 0; i < words.Length; i++)
+        {
+            <li>
+                @Html.RadioButton(radioName, words[i])@words[i]
+            </li>
+        }
+    </ol>
+}
+
+@using (Html.BeginForm("MakeForm", "Questionnary", FormMethod.Post, new { @class = "navbar-form" }))
+{
+<div class="container">
+    @Html.ValidationSummary()
+    @Html.Label("Personal information")
+    <!--Html.DispayTextBoxOL(new string[] { "text", "text", "email" }, new string[] { "name", "surname", "email" })-->
+
+    <p>@Html.ValidationMessageFor(m => m.Name)</p>
+    <p>
+        @Html.Label("Name")<br />
+    @Html.EditorFor(m => m.Name)
+</p>
+<p>@Html.ValidationMessageFor(m => m.Surname)</p>
+<p>@Html.Label("Surname")<br />@Html.EditorFor(m => m.Surname)</p>
+<p>@Html.ValidationMessageFor(m => m.Email)</p>
+<p>
+    @Html.Label("Email")<br />
+@Html.EditorFor(m => m.Email)
+</p>
+<p>@Html.ValidationMessageFor(m => m.Gender)</p>
+<p>@Html.Label("Gender")</p>
+<p>@Html.RadioButtonFor(m => m.Gender, "Male") Male</p>
+<p>@Html.RadioButtonFor(m => m.Gender, "Female") Female</p>
+
+<!--Html.DispayRadioButtonOL("gender", new string[] { "male", "female" })-->
+@Html.Label("How would you like to recieve our publications?")
+<p>@Html.CheckBoxFor(m => m.Online) Online</p>
+
+<p>@Html.CheckBoxFor(m => m.Paper) Paper</p>
+<input type="submit" value="Send" />
+</div>
+}

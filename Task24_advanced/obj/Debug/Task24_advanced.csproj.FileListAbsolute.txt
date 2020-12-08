@@ -1,0 +1,635 @@
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\Task24_advanced.dll.config
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\Task24_advanced.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\Task24_advanced.pdb
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\csc.exe
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\csc.exe.config
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\csc.rsp
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\csi.exe
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\csi.exe.config
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\csi.rsp
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.AppContext.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Console.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.IO.Compression.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Net.Http.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.ValueTuple.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\vbc.exe
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\vbc.exe.config
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\vbc.rsp
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\VBCSCompiler.exe
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\Antlr3.Runtime.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\Newtonsoft.Json.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\System.Web.Helpers.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\System.Web.Mvc.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\System.Web.Optimization.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\System.Web.Razor.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\System.Web.WebPages.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\WebGrease.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\System.Web.Helpers.xml
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\System.Web.Mvc.xml
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\System.Web.Optimization.xml
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\System.Web.Razor.xml
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\System.Web.WebPages.xml
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\Newtonsoft.Json.xml
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\Antlr3.Runtime.pdb
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\obj\Debug\Task24_advanced.csprojAssemblyReference.cache
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\obj\Debug\Task24_advanced.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\obj\Debug\Task24_advanced.csproj.CopyComplete
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\obj\Debug\Task24_advanced.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\obj\Debug\Task24_advanced.pdb
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\BusinessLogicLayer.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\DataAccessLayer.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\EntityFramework.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\BusinessLogicLayer.pdb
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\DataAccessLayer.pdb
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\DataAccessLayer.dll.config
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\EntityFramework.xml
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\EntityFramework.SqlServer.dll
+C:\Users\Артур\source\repos\Task24_advanced\Task24_advanced\bin\EntityFramework.SqlServer.xml
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\Task24_advanced.dll.config
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\Task24_advanced.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\Task24_advanced.pdb
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\csc.exe
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\csc.exe.config
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\csc.rsp
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\csi.exe
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\csi.exe.config
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\csi.rsp
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.AppContext.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Console.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Net.Http.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\vbc.exe
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\vbc.exe.config
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\vbc.rsp
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\Antlr3.Runtime.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\BusinessLogicLayer.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\DataAccessLayer.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\EntityFramework.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\EntityFramework.SqlServer.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Helpers.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Mvc.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Optimization.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Razor.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\WebGrease.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\BusinessLogicLayer.pdb
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\DataAccessLayer.pdb
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\DataAccessLayer.dll.config
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\EntityFramework.xml
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\EntityFramework.SqlServer.xml
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Helpers.xml
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Mvc.xml
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Optimization.xml
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Razor.xml
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.xml
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\Newtonsoft.Json.xml
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\Antlr3.Runtime.pdb
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.csproj.CopyComplete
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.dll
+C:\Users\Hp\Desktop\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Task24_advanced.dll.config
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Task24_advanced.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Task24_advanced.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\csc.exe
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\csc.exe.config
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\csc.rsp
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\csi.exe
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\csi.exe.config
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\csi.rsp
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.AppContext.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Console.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.Compression.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Net.Http.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.ValueTuple.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\vbc.exe
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\vbc.exe.config
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\vbc.rsp
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\VBCSCompiler.exe
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Antlr3.Runtime.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\BusinessLogicLayer.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\DataAccessLayer.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\EntityFramework.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\EntityFramework.SqlServer.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Newtonsoft.Json.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Helpers.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Mvc.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Optimization.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Razor.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\WebGrease.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\BusinessLogicLayer.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\DataAccessLayer.dll.config
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\EntityFramework.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\EntityFramework.SqlServer.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Helpers.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Mvc.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Optimization.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.Razor.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Newtonsoft.Json.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Antlr3.Runtime.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.csproj.CopyComplete
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Ninject.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Mvc.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Ninject.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Mvc.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\PagedList.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\PagedList.Mvc.dll
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\PagedList.xml
+C:\Users\Артур\Desktop\task24_advanced-master\Task24_advanced\bin\PagedList.Mvc.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Task24_advanced.dll.config
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Task24_advanced.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Task24_advanced.pdb
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\csc.exe
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\csc.exe.config
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\csc.rsp
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\csi.exe
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\csi.exe.config
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\csi.rsp
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.AppContext.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Console.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.Compression.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Net.Http.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.ValueTuple.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\vbc.exe
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\vbc.exe.config
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\vbc.rsp
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\VBCSCompiler.exe
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Antlr3.Runtime.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\BusinessLogicLayer.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\DataAccessLayer.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\EntityFramework.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\EntityFramework.SqlServer.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Newtonsoft.Json.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Ninject.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Mvc.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\PagedList.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\PagedList.Mvc.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\System.Web.Helpers.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\System.Web.Mvc.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\System.Web.Optimization.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\System.Web.Razor.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\WebGrease.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\BusinessLogicLayer.pdb
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\DataAccessLayer.dll.config
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\EntityFramework.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\EntityFramework.SqlServer.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Ninject.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Mvc.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\PagedList.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\PagedList.Mvc.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\System.Web.Helpers.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\System.Web.Mvc.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\System.Web.Optimization.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\System.Web.Razor.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Newtonsoft.Json.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Antlr3.Runtime.pdb
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.csproj.CopyComplete
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.pdb
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Task24_advanced.dll.config
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Task24_advanced.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Task24_advanced.pdb
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\csc.exe
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\csc.exe.config
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\csc.rsp
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\csi.exe
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\csi.exe.config
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\csi.rsp
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.AppContext.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Console.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.Compression.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Net.Http.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.ValueTuple.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\vbc.exe
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\vbc.exe.config
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\vbc.rsp
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\VBCSCompiler.exe
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Antlr3.Runtime.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\BusinessLogicLayer.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\DataAccessLayer.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\EntityFramework.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\EntityFramework.SqlServer.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Newtonsoft.Json.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Ninject.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Mvc.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\PagedList.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\PagedList.Mvc.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\System.Web.Helpers.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\System.Web.Mvc.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\System.Web.Optimization.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\System.Web.Razor.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\WebGrease.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\BusinessLogicLayer.pdb
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\DataAccessLayer.dll.config
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\EntityFramework.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\EntityFramework.SqlServer.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Ninject.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Mvc.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\PagedList.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\PagedList.Mvc.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\System.Web.Helpers.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\System.Web.Mvc.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\System.Web.Optimization.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\System.Web.Razor.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Newtonsoft.Json.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Antlr3.Runtime.pdb
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.csproj.CopyComplete
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.dll
+C:\Users\Артур\Desktop\task25_advanced\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Task24_advanced.dll.config
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Task24_advanced.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Task24_advanced.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\csc.exe
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\csc.exe.config
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\csc.rsp
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\csi.exe
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\csi.exe.config
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\csi.rsp
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.AppContext.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Console.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.Compression.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Net.Http.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.ValueTuple.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\vbc.exe
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\vbc.exe.config
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\vbc.rsp
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\VBCSCompiler.exe
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Antlr3.Runtime.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\BusinessLogicLayer.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\DataAccessLayer.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\EntityFramework.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\EntityFramework.SqlServer.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.Owin.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.Owin.Security.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Newtonsoft.Json.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Ninject.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Mvc.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Owin.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\PagedList.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\PagedList.Mvc.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\System.Web.Helpers.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\System.Web.Mvc.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\System.Web.Optimization.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\System.Web.Razor.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\WebGrease.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\BusinessLogicLayer.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\BusinessLogicLayer.dll.config
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\DataAccessLayer.dll.config
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\EntityFramework.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\EntityFramework.SqlServer.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.Owin.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.Owin.Security.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Ninject.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Ninject.Web.Mvc.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\PagedList.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\PagedList.Mvc.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\System.Web.Helpers.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\System.Web.Mvc.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\System.Web.Optimization.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\System.Web.Razor.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Newtonsoft.Json.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Antlr3.Runtime.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.csproj.CopyComplete
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\Task24_advanced\obj\Debug\Task24_advanced.pdb

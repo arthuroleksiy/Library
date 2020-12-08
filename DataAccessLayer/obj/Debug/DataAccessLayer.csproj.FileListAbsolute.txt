@@ -1,0 +1,164 @@
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\System.Web.Helpers.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\System.Web.Helpers.xml
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\DataAccessLayer\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Helpers.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Helpers.xml
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Hp\Desktop\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Helpers.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Helpers.xml
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.Migration23.resources
+C:\Users\Артур\Desktop\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Helpers.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Helpers.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.Firstmigration.resources
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Helpers.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Helpers.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.Initial.resources
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache

@@ -1,0 +1,237 @@
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Артур\source\repos\Task24_advanced\BusinessLogicLayer\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Hp\Desktop\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.dll
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Helpers.dll
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.xml
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Артур\Desktop\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Helpers.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Helpers.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Helpers.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Артур\Desktop\version 2\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Helpers.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Helpers.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Identity.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Buffers.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Memory.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Security.Permissions.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.Identity.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Buffers.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Memory.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Артур\Desktop\task25_advanced\version 4\task24_advanced-master\BusinessLogicLayer\bin\Debug\System.Text.Encodings.Web.xml
