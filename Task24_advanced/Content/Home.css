@@ -181,3 +181,9 @@ font-face {
     content: "\f053";
 }
 
+a.main-buttons-menu {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
